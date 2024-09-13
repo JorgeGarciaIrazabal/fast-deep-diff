@@ -1,0 +1,12 @@
+{
+    "a": {
+        "x": 2,
+        "y": {
+            "z": "deeply nested"
+        }
+    },
+    "b": [
+        {"name": "Alice", "age": 31},
+        {"name": "Charlie", "age": 35}
+    ]
+}

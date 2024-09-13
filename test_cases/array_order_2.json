@@ -1,0 +1,9 @@
+{
+    "numbers": [5, 4, 3, 2, 1],
+    "objects": [
+        {"id": 3, "name": "Third"},
+        {"id": 1, "name": "First"},
+        {"id": 2, "name": "Second"}
+    ],
+    "diff_numbers": [1, 2, 3]
+}
